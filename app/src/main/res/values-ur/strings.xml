@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بجلی بل کیلکولیٹر</string>
+    <string name="tagline">یونٹس لکھو — سلیب کے حساب سے بل کا اندازہ پاؤ</string>
+    <string name="tariff_date">ریٹس نافذ: 12 فروری 2026 · S.R.O. 279(I)/2026</string>
+
+    <string name="consumer_type">صارف کی قسم</string>
+    <string name="units_label">اس مہینے کے یونٹس</string>
+    <string name="units_hint">مثلاً 250</string>
+    <string name="load_label">سینکشنڈ لوڈ (kW) — بل پر لکھا ہوتا ہے</string>
+    <string name="load_hint">ڈیفالٹ 1</string>
+    <string name="calculate">حساب کرو</string>
+    <string name="invalid_input">صحیح یونٹس لکھو</string>
+
+    <string name="result_title">بل کا اندازہ</string>
+    <string name="variable_total">ویری ایبل (سلیبز)</string>
+    <string name="fixed_charge">فکسڈ چارج</string>
+    <string name="grand_total">اندازاً کل</string>
+    <string name="extras_note">اصل بل میں یہ اضافی لگتے ہیں: فیول پرائس ایڈجسٹمنٹ، سہ ماہی ایڈجسٹمنٹ، GST (~18%)، ٹی وی فیس (35 روپے)، بجلی ڈیوٹی — یہاں صرف بنیادی اندازہ ہے۔</string>
+
+    <string name="protected_warning">200 سے زیادہ یونٹس: محفوظ ریٹ ختم ہو سکتا ہے (6 مہینے کا اوسط ≤ 200 یونٹس ہونا چاہیے)۔</string>
+    <string name="lifeline_warning">لائف لائن صرف 100 یونٹس/ماہ تک ہے — اس سے زیادہ پر غیر محفوظ سلیب لگتا ہے۔</string>
+    <string name="min_bill_note">کم از کم ماہانہ بل 75 روپے لگایا گیا۔</string>
+
+    <string name="disclaimer">یہ حکومت کی ایپ نہیں ہے۔ ریٹس 12 فروری 2026 کے نوٹیفکیشن (S.R.O. 279(I)/2026) کے مطابق ہیں — اپنے بل سے تصدیق کریں۔</string>
+</resources>
