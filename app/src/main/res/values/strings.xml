@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bijli Bill Calculator</string>
+    <string name="tagline">Enter units — get a slab-wise bill estimate</string>
+    <string name="tariff_date">Rates effective: 12 Feb 2026 · S.R.O. 279(I)/2026</string>
+
+    <string name="consumer_type">Consumer type</string>
+    <string name="units_label">Units used this month</string>
+    <string name="units_hint">e.g. 250</string>
+    <string name="load_label">Sanctioned load (kW) — printed on your bill</string>
+    <string name="load_hint">default 1</string>
+    <string name="calculate">Calculate</string>
+    <string name="invalid_input">Please enter valid units</string>
+
+    <string name="result_title">Bill estimate</string>
+    <string name="variable_total">Variable (slabs)</string>
+    <string name="fixed_charge">Fixed charge</string>
+    <string name="grand_total">Estimated total</string>
+    <string name="extras_note">Actual bill adds: Fuel Price Adjustment, Quarterly adjustment, GST (~18%), TV fee (Rs 35), electricity duty — shown here is the base estimate only.</string>
+
+    <string name="protected_warning">Over 200 units: protected rate can be lost (6-month average must stay ≤ 200 units).</string>
+    <string name="lifeline_warning">Lifeline applies only up to 100 units/month — above that the non-protected slab applies.</string>
+    <string name="min_bill_note">Minimum monthly bill of Rs 75 applied.</string>
+
+    <string name="disclaimer">This is not a government app. Rates follow the 12 Feb 2026 notification (S.R.O. 279(I)/2026) — verify with your bill.</string>
+</resources>
